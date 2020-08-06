@@ -1,3 +1,13 @@
-#EXPERIMENT 1
-## Aim
-###steps 
+# EXPERIMENT 1
+## Aim of the Experiment
+To implement data link framing techniques such as
+i.character count
+
+### steps by step  
+1.
+2.
+3.
+
+### Output
+
+![output](doc.jpg)
