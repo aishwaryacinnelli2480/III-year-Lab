@@ -1,1 +1,3 @@
-Welcome to CN EXPERIMENTS
+#EXPERIMENT 1
+## Aim
+###steps 
