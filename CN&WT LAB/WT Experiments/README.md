@@ -7,4 +7,4 @@ Develop static pages(using only HTML) of normal registration page.
 1.Designing Register Page
 
 ### Output
-![Output](registrationform.png)
+![Output](wt5.png)
