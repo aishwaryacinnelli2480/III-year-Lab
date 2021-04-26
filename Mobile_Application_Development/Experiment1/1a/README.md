@@ -4,5 +4,5 @@
 
 ### Output
 
-![output](1a_output.jpg)
+![output](1a.jpg)
 
