@@ -3,9 +3,9 @@ Create a screen that has input boxes for User Name, Password, Address, Gender (r
 
 the Submit Button. Use
 
-(a) Linear Layout 
-(b) Relative Layout 
-(c) Grid Layout or Table Layout.
+(a) Linear Layout ##
+(b) Relative Layout ## 
+(c) Grid Layout or Table Layout ##
 
 
 
