@@ -3,7 +3,7 @@ An application that uses a menu with 3 options for dialing a number,opening a we
 
 # Output
 ![output](Main_menu.jpeg)
-![output](Dial1.jpeg)
+![output](1234.jpeg)
 ![output](Dial2.jpeg)
 ![output](Dial3.jpeg)
 ![output](Browser1.jpeg)
