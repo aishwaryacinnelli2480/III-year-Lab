@@ -2,9 +2,9 @@
 Create an application that uses a text file to store user names and passwords (tab separated fields and one record per line). When the user submits a login name and password through a screen, the details should be verified with the text file data and if they match, show a dialog saying that login is successful. Otherwise, show the dialog with Login Failed message.
 
 # Output
-![output](output1 (2).jpeg)
-![output](output2 (2).jpeg)
-![output](output3 (2).jpeg)
+![output](output_exp6_1.jpeg)
+![output](output_exp6_2.jpeg)
+![output](output_exp6_3.jpeg)
 
 
 
